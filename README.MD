@@ -2,7 +2,7 @@
 
 This is a web application built using Java and Java Swing to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-**Live-** [sorting visualizer](https://github.com/Haroon04032003/Sorting-Visualizer/edit/main/README.MD#L6C0/) 
+**Live-** [sorting visualizer](https://github.com/Haroon04032003/Sorting-Visualizer/) 
 
 **Code-** [sort visualizer code](https://github.com/Haroon04032003/Sorting-Visualizer/)
 
