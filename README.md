@@ -8,11 +8,13 @@ Built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 ### Desktop View
-![Desktop Screenshot](images/Desktop-sort-visualiz.png)
+![Desktop Screenshot](https://github.com/kanav-sharmaa/sorting-visualizer/blob/main/images/Desktop-sort-visualizer.png?raw=true)
 
 ### Mobile View
-![Mobile Screenshot](images/mobile-sort-visualiz.png)
+![Mobile Screenshot](https://github.com/kanav-sharmaa/sorting-visualizer/blob/main/images/mobile-sort-visualizer.jpg?raw=true)
+
 
 ---
 
