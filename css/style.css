@@ -142,8 +142,8 @@ footer {
 .link {
   text-decoration: none;
   font-weight: bold;
-  color: #ff5252;
-  font-size: 20px;
+  color: rgb(66, 145, 177);
+  font-size: 40px;
 }
 
 @media screen and (max-width: 600px) {
